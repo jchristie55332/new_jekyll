@@ -1,0 +1,10 @@
+# Site settings
+title: Jwchriste.uk
+email: jwchristie.jc@gmail.com
+description: Its my new website
+url: "http://jwchristie.uk"
+twitter_username: codinged
+github_username:  jchristie55332
+
+# Build settings
+markdown: kramdown
