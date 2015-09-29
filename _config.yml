@@ -3,7 +3,7 @@ title: Jwchriste.uk
 email: jwchristie.jc@gmail.com
 description: Its my new website
 url: "http://jwchristie.uk"
-baseurl: /new_jekyll
+# baseurl: /new_jekyll
 twitter_username: codinged
 github_username:  jchristie55332
 
