@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Hi, I'm James!
 permalink: /about/
 ---
-
-Hello, I'm James!
 
 I'm a Software Developer working in London.  I'm currently working at one of the fastest growing EdTech startups in London.  We are working to improve Maths for Primary school kids.  Its a great project and I love being a part of it.
 

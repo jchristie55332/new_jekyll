@@ -1,19 +1,43 @@
-.top-banner {
-  background-color: #008cba;
-  width: 80%;
-  margin: 0 auto;
-  text-align: center;
-  h1 {
-    color: white;
-    font-size: 60px;
-    font-weight: bolder;
-    padding: 30px;
+.home {
+  padding: 30px 0 0 0;
+  a {
+    .top-banner {
+      background-color: #008cba;
+      width: 80%;
+      margin: 0 auto;
+      text-align: center;
+      h1 {
+        color: white;
+        font-size: 60px;
+        font-weight: bolder;
+        padding: 30px;
+      }
+    }
   }
 }
 
 .bottom-banner {
   width: 100%;
   padding: 100px 0 0 0;
+  text-align: center;
+  .icon-12x {
+    font-size: 12em;
+    position: relative;
+    top: 7px;
+  }
+  .icon-15x {
+    font-size: 15em;
+  }
+  .icon-13x {
+    font-size: 13em;
+    position: relative;
+    top: 5px;
+  }
+  .icon-10x {
+    font-size: 10em;
+    position: relative;
+    top: 11px;
+  }
 }
 
 footer {
