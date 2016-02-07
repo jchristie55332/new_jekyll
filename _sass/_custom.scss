@@ -11,12 +11,15 @@
 
 .top-border {
   width: 100%;
+  position: fixed;
+  top: 0px;
+  height: 5px;
+  background-color: #337ab7;
 }
 
 body {
   width: 100%;
   display: table;
-  border-top: 5px solid #337ab7;
   background: #fff url("../images/bg-pattern.png");
 }
 
@@ -64,4 +67,36 @@ h3 {
 
 a {
   text-decoration: none;
+}
+
+.page-link {
+  // border: 1px solid #9a9a9a;
+  width: 80px;
+  display: inline-block;
+  padding: 5px 0;
+  border-radius: 10px;
+  background-color: white;
+  font-weight: bold;
+  color: #9a9a9a !important;
+  text-align: center;
+}
+
+.page-link:hover {
+  text-decoration: none;
+  // border: 1px solid #337ab7;
+  color: #337ab7 !important;
+}
+
+.footer-li {
+  display: inline-block;
+  a {
+    i {
+      font-size: 25px;
+      color: #9a9a9a;
+      padding: 0 3px;
+    }
+    i:hover {
+      color: #337ab7 !important;
+    }
+  }
 }
