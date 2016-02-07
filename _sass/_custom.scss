@@ -100,3 +100,19 @@ a {
     }
   }
 }
+
+.each-post {
+  background-color: white;
+  border: 1px solid #337ab7;
+  border-radius: 5px;
+  h2 {
+    padding: 0 15px;
+    a {
+      font-weight: bold;
+      color: #337ab7;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+  }
+}
