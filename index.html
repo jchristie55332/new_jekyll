@@ -1,17 +1,26 @@
 ---
-layout: default
+layout: landing
 ---
-
-<div class="home">
-  <a href="/about">
-    <div class='top-banner'>
-      <h1>Hi I'm James!</h1>
-    </div>
-  </a>
-  <div class="bottom-banner">
-    <i class="icon icon-tree icon-12x"></i>
-    <i class="icon icon-tree icon-15x"></i>
-    <i class="icon icon-tree icon-13x"></i>
-    <i class="icon icon-tree icon-10x"></i>
+<div class="landing-content-wrapper">
+  <img src="./images/james.jpg" alt="james" class="landing-image" />
+  <div class="text-wrapper">
+    <h1>Hi I'm James!</h1>
+    <h3>I'm a software developer from Scotland.</h3>
+    <a href="/about">about</a>
+    <a href="/posts">blog</a>
+  </div>
+  <div class="icons-wrapper">
+    <a href="{{ site.github }}">
+      <i class="fa fa-github-alt"></i>
+    </a>
+    <a href="{{ site.linkedin }}">
+      <i class="fa fa-linkedin"></i>
+    </a>
+    <a href="{{ site.twitter }}">
+      <i class="fa fa-twitter"></i>
+    </a>
+    <a href="{{ site.email }}">
+      <i class="fa fa-envelope-o"></i>
+    </a>
   </div>
 </div>
