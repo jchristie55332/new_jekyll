@@ -2,7 +2,7 @@
 layout: post
 title:  "Strong Parameters in Rails 4"
 date:   2015-10-05 17:10:00
-categories: site update
+categories: ruby on rails
 ---
 Hello,
 

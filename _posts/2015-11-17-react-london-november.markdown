@@ -2,7 +2,7 @@
 layout: post
 title:  "React in London - November"
 date:   2015-11-17 23:10:00
-categories: site update
+categories: javascript
 ---
 Having made it to another amazing meetup in London this evening after work, I have to say I can't understand why more people don't get invloved.  They are the most amazing opportunities for people to get to know each other over a free beer and companies to expose themselves to the market in a great light.
 
