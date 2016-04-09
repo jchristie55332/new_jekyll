@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Relic - London"
-date:   2015-11-17 23:10:00
+date:   2015-02-25 12:10:00
 categories: development tools
 ---
 Last week I attended the New Relic Summit in London.  This was a great event for me to attend as I am just beginning to look into the world of DevOps and server optimisation.  I have recently been working at understanding how to take an empty shell of a server and deploy and run a variety of applications on them.  I'll post about this soon so I will focus on the New Relic event.
